@@ -1,0 +1,5 @@
+rootProject.name = "LibraryExample"
+include ':app'
+include ':CustomLibraryNav'
+include ':Library'
+

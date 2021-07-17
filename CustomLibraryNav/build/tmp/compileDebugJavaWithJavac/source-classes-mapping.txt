@@ -1,0 +1,2 @@
+fr/bilog/customlibrarynav/BuildConfig.java
+ fr.bilog.customlibrarynav.BuildConfig

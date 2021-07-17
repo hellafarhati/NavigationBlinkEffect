@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id nextActBtn
+id testBlinkBtn
+layout activity_lib_first
+layout activity_lib_second

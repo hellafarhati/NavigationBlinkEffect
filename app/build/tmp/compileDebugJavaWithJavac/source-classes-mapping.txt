@@ -1,0 +1,2 @@
+fr/bilog/libraryexample/BuildConfig.java
+ fr.bilog.libraryexample.BuildConfig
