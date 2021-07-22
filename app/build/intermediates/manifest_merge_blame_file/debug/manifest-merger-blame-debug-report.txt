@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:7:9-43
@@ -42,14 +42,27 @@
 25-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:16:27-74
 26            </intent-filter>
 27        </activity>
-28        <activity android:name="fr.bilog.customlibrarynav.LibFirstActivity" >
+28        <activity android:name="fr.bilog.customlibrarynav.main.LibFirstActivity" >
 28-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:9-22:20
-28-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:19-76
+28-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:19-81
 29        </activity>
-30        <activity android:name="fr.bilog.customlibrarynav.LibSecondActivity" >
+30        <activity android:name="fr.bilog.customlibrarynav.main.LibSecondActivity" >
 30-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:9-26:20
-30-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:19-77
+30-->/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:19-82
 31        </activity>
-32    </application>
-33
-34</manifest>
+32
+33        <uses-library
+33-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:25:9-27:40
+34            android:name="androidx.window.extensions"
+34-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:26:13-54
+35            android:required="false" />
+35-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:27:13-37
+36        <uses-library
+36-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:28:9-30:40
+37            android:name="androidx.window.sidecar"
+37-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:29:13-51
+38            android:required="false" />
+38-->[androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:30:13-37
+39    </application>
+40
+41</manifest>

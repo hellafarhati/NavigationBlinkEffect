@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="fr.bilog.customlibrarynav.mainFragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="fr.bilog.customlibrarynav.mainFragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/ideasFragment"
+        android:name="fr.bilog.customlibrarynav.mainFragments.IdeasFragment"
+        android:label="fragment_ideas"
+        tools:layout="@layout/fragment_ideas" />
+</navigation>

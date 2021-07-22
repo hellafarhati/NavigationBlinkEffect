@@ -17,11 +17,11 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="fr.bilog.customlibrarynav.LibFirstActivity">
+        <activity android:name="fr.bilog.customlibrarynav.main.LibFirstActivity">
 
         </activity>
 
-        <activity android:name="fr.bilog.customlibrarynav.LibSecondActivity">
+        <activity android:name="fr.bilog.customlibrarynav.main.LibSecondActivity">
 
         </activity>
 

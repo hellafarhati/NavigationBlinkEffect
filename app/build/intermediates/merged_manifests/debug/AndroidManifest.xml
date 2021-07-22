@@ -25,10 +25,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="fr.bilog.customlibrarynav.LibFirstActivity" >
+        <activity android:name="fr.bilog.customlibrarynav.main.LibFirstActivity" >
         </activity>
-        <activity android:name="fr.bilog.customlibrarynav.LibSecondActivity" >
+        <activity android:name="fr.bilog.customlibrarynav.main.LibSecondActivity" >
         </activity>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
     </application>
 
 </manifest>

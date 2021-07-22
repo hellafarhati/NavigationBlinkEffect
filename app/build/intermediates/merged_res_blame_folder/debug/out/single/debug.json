@@ -4,6 +4,10 @@
         "source": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/build/intermediates/res/merged/debug/drawable_bilog_tunisie.jpeg.flat",
+        "source": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/res/drawable/bilog_tunisie.jpeg"
+    },
+    {
         "merged": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },

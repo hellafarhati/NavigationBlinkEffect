@@ -5,42 +5,63 @@ INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [:CustomLibraryNav] /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/CustomLibraryNav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/143607dcd978c79d9a5943563222df7c/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/e9802b3cebaf2273688e76617de5d27a/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/41c35bdee781e325154c433ed10d4685/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e418474f0209ae811dfd26da9fefe52b/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/54cb7b07ca11fe97cbf86e028d2dbf6d/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/88ee82f83da57cdd18e0275041b5aabf/activity-1.2.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6ee52c388314752192efc8e7675529fb/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9b153117d0b890af6af88f83e09a86c1/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5498ffa42456941efaa1f2051b84401d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e8158714be990e7e2f260d614e56fe02/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5dfa17b37f970749b3345944f897dbb/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1df060e3ff6b7a8c4f1cab1bcc4f960b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4c1ae1175ab3229a8bb0d8eb09ee290e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/57cd135e85ccb36c3c2e5f4a45723bd2/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4e2adf619ef437d911bf4d500be4870a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/72b97af9230120000a3541091db5f889/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9ce162bcd3d122d9185a21e5e37ca542/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/bf9f7e58ae7d17d19478e2e8dedc32b8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ef7033c43589dd72820378f505d6c76e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e240bb8c985ff8eb58793e2a36d99d5c/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/90d4445a89c8c2172984e1ad2f51bf46/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2cb8fc15b1ac0c9c6274a0df602233c8/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0c0d28e8f21e86dcb7f304e7579124e3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b3946e73b525b4bceebf00bc19684ad4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c763fe20a9e608b6bd562c6ac13e805/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5b8709f3ab6bca42826312f717bd552b/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b62844d32242016242eb917f0159a9fa/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c79ef38a369fed14d96adef4bcca0d63/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e48c46c7bf94597b092638332fe33257/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/82d5dcc7fc2bf38d1743053260f18877/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/990014bd05ba1a03dc7d8b85db27b3ce/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/39dc8d3fae4f3dbad514b70e0beae310/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/7dfca04f409b233eb5dcb1a0a2adbbdd/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3bbc0092d7fdfd34a463006b78478970/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/5f5a236258eaf8bf25ebb2ffe9e21f35/navigation-fragment-ktx-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d45d4d9d6b90c2554f5bf141c6ba0ade/navigation-fragment-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6d023bcf1d09063a87356ac5bd58d5f6/fragment-ktx-1.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/b823511405044f98912379c7957372e2/navigation-ui-ktx-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e650f9f14c325cd8644c8af7efd0d321/navigation-runtime-ktx-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d9835d8e469d1e99079eec8f0e336aff/navigation-ui-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3dce6d809516f72480a985d2a787d43/navigation-runtime-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/65dad80514223f075581d262000f880e/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e0a759cf8fcbc2a7a897a64714e108a/navigation-common-ktx-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/9c5a18b834284d8db6aaf2f658c5c05d/navigation-common-2.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/77931670ecc16bd4801f8ca7268f391d/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5edc662d96f03e75942e16febe1d76cf/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/492d5b9c17c82573756b216fc711e183/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-alpha03] /Users/hella/.gradle/caches/transforms-2/files-2.1/15e6150f32fcdedc6d18d80206680678/slidingpanelayout-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c8b08f2a5cd2a79aaf53f8940a8fbb26/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/f7a9c8853af7a4114129aead038a897c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f78e20f5b19eefac951b0641f1bfe16e/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e75893f3dbdd79cc11e60fb7b281cd5f/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/6de668d54537725a000542b5f588dafd/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1246a431575febdb09366ac599b61211/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/538a15d17bbcd6ce0ae86709e667c905/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5651b36e4eb339d0170f2a70c97bc34b/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/02fb71df1617d38e4f489fce7c674dfd/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e9dd1d79ae0a6a85dba27616b7a55dc/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d003e7b8e898b53c04698a45e7858792/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/37316b736d517b219b508d372b93fc6c/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e82cf3ddcbc494f5bda931f843899877/fragment-1.4.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/0eec29a0838909b387608b51cd8ce163/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/356d01f9a8b137a49fc8450ee1535c16/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/988d7c52a4d32c3141a81aae7f797973/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/98efd210a71af60a2c0da746609db301/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/eb567bde81b539193c72cf1ff790dc2c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6a0f39a2dc78f56deea83c8166325783/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/c588d0baaa8ec9154370a11c61b19efb/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/7f95f62a4bf37383ff21318de913b2d9/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c9f61217264b40ae266ea1b35becff3/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/619f6a27aff57779f41681b345f150e8/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/9a1723427a85c8cdcaa6e94617008720/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/585df48c59a3a1373df7c51921c50af5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/98adfd6067a0f42145e16a09bdd06de1/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/73b37f6620b961174be1d986923424a2/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0efd4fdb7bdcc46693f6f56610116981/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/3e84899c70a1e117234707bd9490b9d8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1642732ab46da66744688525da5b5e47/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/1e761a87e464d4546949e05194b27cde/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d297a53fa1369c61ac96a31bb1c85832/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/6186bfdaf7614fc7855598b83284f961/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5e8fef66ae8fd01da004a3411d00542/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f652465f57a32b5ca332097bf1e4090a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6198abdd6fcd65976275dd0f86608d79/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ec8a9397fd53100afa3fec1745a4ee8e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2643bdb27f0b24bd6ff4d7edbfa98d3c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/fabf1a70e1b970703780464bd7284c6b/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2ef44bea4934d72e310565531251f23e/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:1-33:12
@@ -60,16 +81,18 @@ INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/
 		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:5:5-31:19
-MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/e9802b3cebaf2273688e76617de5d27a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/e9802b3cebaf2273688e76617de5d27a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c763fe20a9e608b6bd562c6ac13e805/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c763fe20a9e608b6bd562c6ac13e805/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/6de668d54537725a000542b5f588dafd/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/6de668d54537725a000542b5f588dafd/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/1e761a87e464d4546949e05194b27cde/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/1e761a87e464d4546949e05194b27cde/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -96,92 +119,134 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:16:27-74
-activity#fr.bilog.customlibrarynav.LibFirstActivity
+activity#fr.bilog.customlibrarynav.main.LibFirstActivity
 ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:9-22:20
 	android:name
-		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:19-76
-activity#fr.bilog.customlibrarynav.LibSecondActivity
+		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:20:19-81
+activity#fr.bilog.customlibrarynav.main.LibSecondActivity
 ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:9-26:20
 	android:name
-		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:19-77
+		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml:24:19-82
 uses-sdk
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 MERGED from [:CustomLibraryNav] /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/CustomLibraryNav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:CustomLibraryNav] /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/CustomLibraryNav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/143607dcd978c79d9a5943563222df7c/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/143607dcd978c79d9a5943563222df7c/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/e9802b3cebaf2273688e76617de5d27a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/e9802b3cebaf2273688e76617de5d27a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/41c35bdee781e325154c433ed10d4685/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/41c35bdee781e325154c433ed10d4685/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e418474f0209ae811dfd26da9fefe52b/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e418474f0209ae811dfd26da9fefe52b/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/54cb7b07ca11fe97cbf86e028d2dbf6d/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/54cb7b07ca11fe97cbf86e028d2dbf6d/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/88ee82f83da57cdd18e0275041b5aabf/activity-1.2.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/88ee82f83da57cdd18e0275041b5aabf/activity-1.2.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6ee52c388314752192efc8e7675529fb/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6ee52c388314752192efc8e7675529fb/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9b153117d0b890af6af88f83e09a86c1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9b153117d0b890af6af88f83e09a86c1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5498ffa42456941efaa1f2051b84401d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5498ffa42456941efaa1f2051b84401d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e8158714be990e7e2f260d614e56fe02/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e8158714be990e7e2f260d614e56fe02/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5dfa17b37f970749b3345944f897dbb/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5dfa17b37f970749b3345944f897dbb/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1df060e3ff6b7a8c4f1cab1bcc4f960b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1df060e3ff6b7a8c4f1cab1bcc4f960b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4c1ae1175ab3229a8bb0d8eb09ee290e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4c1ae1175ab3229a8bb0d8eb09ee290e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/57cd135e85ccb36c3c2e5f4a45723bd2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/57cd135e85ccb36c3c2e5f4a45723bd2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4e2adf619ef437d911bf4d500be4870a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/4e2adf619ef437d911bf4d500be4870a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/72b97af9230120000a3541091db5f889/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/72b97af9230120000a3541091db5f889/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9ce162bcd3d122d9185a21e5e37ca542/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/9ce162bcd3d122d9185a21e5e37ca542/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/bf9f7e58ae7d17d19478e2e8dedc32b8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/bf9f7e58ae7d17d19478e2e8dedc32b8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3b4b2ff73537da458ffce892e09dd840/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ef7033c43589dd72820378f505d6c76e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ef7033c43589dd72820378f505d6c76e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e240bb8c985ff8eb58793e2a36d99d5c/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e240bb8c985ff8eb58793e2a36d99d5c/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/90d4445a89c8c2172984e1ad2f51bf46/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/90d4445a89c8c2172984e1ad2f51bf46/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2cb8fc15b1ac0c9c6274a0df602233c8/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2cb8fc15b1ac0c9c6274a0df602233c8/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0c0d28e8f21e86dcb7f304e7579124e3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0c0d28e8f21e86dcb7f304e7579124e3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b3946e73b525b4bceebf00bc19684ad4/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b3946e73b525b4bceebf00bc19684ad4/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c763fe20a9e608b6bd562c6ac13e805/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c763fe20a9e608b6bd562c6ac13e805/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5b8709f3ab6bca42826312f717bd552b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5b8709f3ab6bca42826312f717bd552b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b62844d32242016242eb917f0159a9fa/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/b62844d32242016242eb917f0159a9fa/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c79ef38a369fed14d96adef4bcca0d63/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c79ef38a369fed14d96adef4bcca0d63/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e48c46c7bf94597b092638332fe33257/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e48c46c7bf94597b092638332fe33257/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/82d5dcc7fc2bf38d1743053260f18877/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/82d5dcc7fc2bf38d1743053260f18877/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/990014bd05ba1a03dc7d8b85db27b3ce/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/990014bd05ba1a03dc7d8b85db27b3ce/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/39dc8d3fae4f3dbad514b70e0beae310/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/39dc8d3fae4f3dbad514b70e0beae310/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/7dfca04f409b233eb5dcb1a0a2adbbdd/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/7dfca04f409b233eb5dcb1a0a2adbbdd/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3bbc0092d7fdfd34a463006b78478970/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/3bbc0092d7fdfd34a463006b78478970/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/5f5a236258eaf8bf25ebb2ffe9e21f35/navigation-fragment-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/5f5a236258eaf8bf25ebb2ffe9e21f35/navigation-fragment-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d45d4d9d6b90c2554f5bf141c6ba0ade/navigation-fragment-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d45d4d9d6b90c2554f5bf141c6ba0ade/navigation-fragment-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6d023bcf1d09063a87356ac5bd58d5f6/fragment-ktx-1.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6d023bcf1d09063a87356ac5bd58d5f6/fragment-ktx-1.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/b823511405044f98912379c7957372e2/navigation-ui-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/b823511405044f98912379c7957372e2/navigation-ui-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e650f9f14c325cd8644c8af7efd0d321/navigation-runtime-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e650f9f14c325cd8644c8af7efd0d321/navigation-runtime-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d9835d8e469d1e99079eec8f0e336aff/navigation-ui-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/d9835d8e469d1e99079eec8f0e336aff/navigation-ui-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3dce6d809516f72480a985d2a787d43/navigation-runtime-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3dce6d809516f72480a985d2a787d43/navigation-runtime-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/65dad80514223f075581d262000f880e/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/hella/.gradle/caches/transforms-2/files-2.1/65dad80514223f075581d262000f880e/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e0a759cf8fcbc2a7a897a64714e108a/navigation-common-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e0a759cf8fcbc2a7a897a64714e108a/navigation-common-ktx-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/9c5a18b834284d8db6aaf2f658c5c05d/navigation-common-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/9c5a18b834284d8db6aaf2f658c5c05d/navigation-common-2.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/77931670ecc16bd4801f8ca7268f391d/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/77931670ecc16bd4801f8ca7268f391d/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5edc662d96f03e75942e16febe1d76cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5edc662d96f03e75942e16febe1d76cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/492d5b9c17c82573756b216fc711e183/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/492d5b9c17c82573756b216fc711e183/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-alpha03] /Users/hella/.gradle/caches/transforms-2/files-2.1/15e6150f32fcdedc6d18d80206680678/slidingpanelayout-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-alpha03] /Users/hella/.gradle/caches/transforms-2/files-2.1/15e6150f32fcdedc6d18d80206680678/slidingpanelayout-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c8b08f2a5cd2a79aaf53f8940a8fbb26/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/c8b08f2a5cd2a79aaf53f8940a8fbb26/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/f7a9c8853af7a4114129aead038a897c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/f7a9c8853af7a4114129aead038a897c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f78e20f5b19eefac951b0641f1bfe16e/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f78e20f5b19eefac951b0641f1bfe16e/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e75893f3dbdd79cc11e60fb7b281cd5f/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/e75893f3dbdd79cc11e60fb7b281cd5f/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/6de668d54537725a000542b5f588dafd/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/6de668d54537725a000542b5f588dafd/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1246a431575febdb09366ac599b61211/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1246a431575febdb09366ac599b61211/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/538a15d17bbcd6ce0ae86709e667c905/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/538a15d17bbcd6ce0ae86709e667c905/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5651b36e4eb339d0170f2a70c97bc34b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/5651b36e4eb339d0170f2a70c97bc34b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/02fb71df1617d38e4f489fce7c674dfd/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/02fb71df1617d38e4f489fce7c674dfd/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e9dd1d79ae0a6a85dba27616b7a55dc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6e9dd1d79ae0a6a85dba27616b7a55dc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d003e7b8e898b53c04698a45e7858792/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d003e7b8e898b53c04698a45e7858792/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/37316b736d517b219b508d372b93fc6c/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/37316b736d517b219b508d372b93fc6c/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e82cf3ddcbc494f5bda931f843899877/fragment-1.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha05] /Users/hella/.gradle/caches/transforms-2/files-2.1/e82cf3ddcbc494f5bda931f843899877/fragment-1.4.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/0eec29a0838909b387608b51cd8ce163/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/0eec29a0838909b387608b51cd8ce163/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/356d01f9a8b137a49fc8450ee1535c16/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/356d01f9a8b137a49fc8450ee1535c16/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/988d7c52a4d32c3141a81aae7f797973/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/988d7c52a4d32c3141a81aae7f797973/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/98efd210a71af60a2c0da746609db301/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/98efd210a71af60a2c0da746609db301/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/eb567bde81b539193c72cf1ff790dc2c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/eb567bde81b539193c72cf1ff790dc2c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6a0f39a2dc78f56deea83c8166325783/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6a0f39a2dc78f56deea83c8166325783/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/c588d0baaa8ec9154370a11c61b19efb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/c588d0baaa8ec9154370a11c61b19efb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/7f95f62a4bf37383ff21318de913b2d9/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/7f95f62a4bf37383ff21318de913b2d9/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c9f61217264b40ae266ea1b35becff3/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2c9f61217264b40ae266ea1b35becff3/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/619f6a27aff57779f41681b345f150e8/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/619f6a27aff57779f41681b345f150e8/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/9a1723427a85c8cdcaa6e94617008720/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/hella/.gradle/caches/transforms-2/files-2.1/9a1723427a85c8cdcaa6e94617008720/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/59b7373dbcd909d701922a974fa8db8f/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/585df48c59a3a1373df7c51921c50af5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/585df48c59a3a1373df7c51921c50af5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/98adfd6067a0f42145e16a09bdd06de1/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/98adfd6067a0f42145e16a09bdd06de1/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/73b37f6620b961174be1d986923424a2/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/73b37f6620b961174be1d986923424a2/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0efd4fdb7bdcc46693f6f56610116981/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/0efd4fdb7bdcc46693f6f56610116981/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/3e84899c70a1e117234707bd9490b9d8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/3e84899c70a1e117234707bd9490b9d8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1642732ab46da66744688525da5b5e47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/1642732ab46da66744688525da5b5e47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/1e761a87e464d4546949e05194b27cde/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/1e761a87e464d4546949e05194b27cde/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d297a53fa1369c61ac96a31bb1c85832/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/d297a53fa1369c61ac96a31bb1c85832/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/6186bfdaf7614fc7855598b83284f961/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hella/.gradle/caches/transforms-2/files-2.1/6186bfdaf7614fc7855598b83284f961/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5e8fef66ae8fd01da004a3411d00542/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/e5e8fef66ae8fd01da004a3411d00542/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f652465f57a32b5ca332097bf1e4090a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/f652465f57a32b5ca332097bf1e4090a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6198abdd6fcd65976275dd0f86608d79/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/6198abdd6fcd65976275dd0f86608d79/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ec8a9397fd53100afa3fec1745a4ee8e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/ec8a9397fd53100afa3fec1745a4ee8e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2643bdb27f0b24bd6ff4d7edbfa98d3c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2643bdb27f0b24bd6ff4d7edbfa98d3c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/fabf1a70e1b970703780464bd7284c6b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/fabf1a70e1b970703780464bd7284c6b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2ef44bea4934d72e310565531251f23e/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hella/.gradle/caches/transforms-2/files-2.1/2ef44bea4934d72e310565531251f23e/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -192,3 +257,15 @@ INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/
 		INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 		ADDED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] /Users/hella/.gradle/caches/transforms-2/files-2.1/f3873a67c4b85be983eaca18cc8bbf9d/window-1.0.0-alpha09/AndroidManifest.xml:29:13-51

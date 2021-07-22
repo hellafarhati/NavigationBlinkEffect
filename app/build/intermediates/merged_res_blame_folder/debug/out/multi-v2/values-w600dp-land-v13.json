@@ -4,7 +4,7 @@
             "outputFile": "/Users/hella/Desktop/AndroidStudioProjects/LibraryExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/hella/.gradle/caches/transforms-2/files-2.1/6b0be00ecfbc85e7ede5906157c6a0f7/material-1.4.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "source": "/Users/hella/.gradle/caches/transforms-2/files-2.1/8a37a59b988ad4c7e7c5c306aa2e9a82/material-1.4.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

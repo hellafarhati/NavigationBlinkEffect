@@ -1,6 +1,24 @@
 R_DEF: Internal format may change without notice
 local
+drawable ic_account
+drawable ic_home
+drawable ic_idea
+id bottom_navigation_view
+id editTextTextPassword
+id editTextTextPersonName2
+id homeFragment
+id ideasFragment
+id linearLayout
+id mainFragment
+id main_nav
+id my_nav_host_fragment
 id nextActBtn
 id testBlinkBtn
 layout activity_lib_first
 layout activity_lib_second
+layout fragment_home
+layout fragment_ideas
+layout fragment_main
+menu main_menu
+navigation main_nav
+string hello_blank_fragment
